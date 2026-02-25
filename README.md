@@ -315,8 +315,8 @@ From the training plot:
 Soil-Moisture-Prediction/
 │
 ├── data/t_s1_am_6am.csv
-├── notebook/soil_moisture_model.ipynb
-├── report/soil_moisture_Project_Documentation.pdf
+├── notebook/soil moisture prediction.ipynb
+├── report/soil moisture project documentation.pdf
 └── README.md
 ```
 
